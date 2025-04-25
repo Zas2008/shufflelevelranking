@@ -3,7 +3,7 @@
         "id": 1,
         "name": "UX Hoopa Unbound",
         "creator": "Viktor",
-        "victors": [""]
+        "victors": ["Fyroah"]
     },
     {
         "id": 2,
@@ -15,48 +15,48 @@
         "id": 3,
         "name": "UX Mega Metagross",
         "creator": "Fyroah",
-        "victors": [""]
+        "victors": ["Redwhaley14"]
     },
         {
         "id": 4,
         "name": "UX Wormadam-S",
         "creator": "Clement",
-        "victors": [""]
+        "victors": ["Pizz","Fyroah"]
     },
             {
         "id": 5,
         "name": "UX Jellicent-M 2",
         "creator": "Clement",
-        "victors": [""]
+        "victors": ["Viktor","Fyroah"]
     },
             {
         "id": 6,
         "name": "UX Shiny Rayquaza",
         "creator": "Clement",
-        "victors": [""]
+        "victors": ["Viktor","dtc","Fyroah"]
     },
             {
         "id": 7,
         "name": "UX Mega Salamence",
         "creator": "Sky",
-        "victors": [""]
+        "victors": ["Viktor","Firestar44","Shane","Fyroah"]
     },
             {
         "id": 8,
         "name": "UX Shiny Xerneas",
-        "creator": "???",
-        "victors": [""]
+        "creator": "N/A",
+        "victors": ["N/A"]
     },
             {
         "id": 9,
         "name": "UX Hippopotas-M 2",
-        "creator": "???",
-        "victors": [""]
+        "creator": "N/A",
+        "victors": ["N/A"]
     },
             {
         "id": 10,
         "name": "UX Aegislash 2",
-        "creator": "???",
-        "victors": [""]
+        "creator": "N/A",
+        "victors": ["N/A"]
     }
 ]
