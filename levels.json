@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "UX Hoopa Unbound",
+        "creator": "Viktor",
+        "victors": [""]
+    },
+    {
+        "id": 2,
+        "name": "Darkrai Escalation Battle 175",
+        "creator": "Fyroah",
+        "victors": [""]
+    },
+    {
+        "id": 3,
+        "name": "UX Mega Metagross",
+        "creator": "Fyroah",
+        "victors": [""]
+    },
+        {
+        "id": 4,
+        "name": "UX Wormadam-S",
+        "creator": "Clement",
+        "victors": [""]
+    },
+            {
+        "id": 5,
+        "name": "UX Jellicent-M 2",
+        "creator": "Clement",
+        "victors": [""]
+    },
+            {
+        "id": 6,
+        "name": "UX Shiny Rayquaza",
+        "creator": "Clement",
+        "victors": [""]
+    },
+            {
+        "id": 7,
+        "name": "UX Mega Salamence",
+        "creator": "Sky",
+        "victors": [""]
+    },
+            {
+        "id": 8,
+        "name": "UX Shiny Xerneas",
+        "creator": "???",
+        "victors": [""]
+    },
+            {
+        "id": 9,
+        "name": "UX Hippopotas-M 2",
+        "creator": "???",
+        "victors": [""]
+    },
+            {
+        "id": 10,
+        "name": "UX Aegislash 2",
+        "creator": "???",
+        "victors": [""]
+    }
+]
