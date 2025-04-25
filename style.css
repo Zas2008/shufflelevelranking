@@ -6,8 +6,6 @@
     --text: #e0e6ff;
     --text-glow: rgba(224, 230, 255, 0.3);
     --background: #050510;
-    --star-color: rgba(255, 255, 255, 0.8);
-    --nebula: rgba(100, 70, 255, 0.1);
 }
 
 * {
@@ -18,48 +16,16 @@
 
 body {
     font-family: 'Montserrat', sans-serif;
-    background-color: var(--background);
+    background-image: url('https://www.pokemon.com/static-assets/content-assets/cms2/img/video-games/_tiles/pokemon-shuffle/pokemon-shuffle-169.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
     color: var(--text);
     line-height: 1.6;
     position: relative;
     min-height: 100vh;
     overflow-x: hidden;
-}
-
-body::before {
-    content: "";
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background: 
-        radial-gradient(circle at 20% 30%, var(--nebula) 0%, transparent 40%),
-        radial-gradient(circle at 80% 70%, rgba(255, 100, 100, 0.1) 0%, transparent 40%),
-        linear-gradient(to bottom, rgba(5, 5, 16, 0) 0%, var(--background) 100%);
-    z-index: -2;
-}
-
-body::after {
-    content: "";
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background-image: 
-        radial-gradient(1px 1px at 20% 30%, var(--star-color) 1px, transparent 0),
-        radial-gradient(1px 1px at 40% 70%, var(--star-color) 1px, transparent 0),
-        radial-gradient(1px 1px at 60% 20%, var(--star-color) 1px, transparent 0),
-        radial-gradient(1px 1px at 80% 50%, var(--star-color) 1px, transparent 0),
-        radial-gradient(1px 1px at 30% 80%, var(--star-color) 1px, transparent 0),
-        radial-gradient(1.5px 1.5px at 10% 40%, var(--star-color) 1.5px, transparent 0),
-        radial-gradient(1.5px 1.5px at 90% 60%, var(--star-color) 1.5px, transparent 0),
-        radial-gradient(1.5px 1.5px at 70% 10%, var(--star-color) 1.5px, transparent 0),
-        radial-gradient(2px 2px at 50% 90%, var(--star-color) 2px, transparent 0);
-    background-size: 200px 200px;
-    z-index: -1;
-    opacity: 0.7;
 }
 
 header {
